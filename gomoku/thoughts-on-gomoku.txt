@@ -1,0 +1,1 @@
+Gomoku is a game based on coexistence even more than Go. Skilled players seek to put great effort into making a tie.
